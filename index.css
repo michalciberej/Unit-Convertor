@@ -1,0 +1,83 @@
+body {
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+    height: 700px;
+    width: 550px;
+    background: #374151;
+    padding: 0;
+    display: block;
+}
+
+#first-box-el {
+    margin: 0;
+    background: #374151;
+    height: 38%;
+    width: 100%;
+    padding: 10px 0px;
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: -0.03em;
+    color: #fff
+}
+
+#input-el {
+    display: block;
+    margin: 30px auto 25px;
+    background: #374151;
+    border-radius: 2px;
+    border: 2px solid #34D399;
+    font-size: 50px;
+    width: 117px;
+    height: 83px; 
+    color: #fff;
+    text-align: center;
+    font-weight: 800;
+    
+}
+
+#convert-btn {
+    background: white;
+    border: none;
+    padding: 9px 27.5px;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #3D3D3D;
+}
+
+#second-box-el {
+    background: #064E3B;
+    margin: 0;
+    height: 61%;
+    padding: 15px 0px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.inner-boxes-el {
+    width: 500px;
+    height: 100px;
+    background: #065F46;
+    display: block;
+    margin: 24px auto;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.inner-boxes-el h2 {
+    color: #34D399;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.inner-boxes-el p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #fff
+}
